@@ -11,4 +11,7 @@ This diagram shows the mean reward (summed over the entire episode) of the last 
 
 I compared to DQN in the same environment setup. DQN was able to achive a mean reward of +18 in round about 3M steps, as expected. So I expected DSR to achieve the same level of play.
 
+## Discussion
+See also my questions on [reddit](https://www.reddit.com/r/MachineLearning/comments/7u1m1u/research_reproduction_of_deep_successor/) and [quora](https://www.quora.com/unanswered/What-is-wrong-with-my-DSR-implementation-in-Tensorflow?share=de137857&srid=5i8rf).
+
 
